@@ -6,3 +6,5 @@ print("Hmm...")
 time.sleep(1.0)
 heightI = input("Oh! What is your height in inches?")
 print("Oh, so you are", heightI, "inches tall.")
+name = input("What about your name?"
+print("Nice to meet you,", name)
